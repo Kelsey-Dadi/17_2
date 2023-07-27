@@ -18,13 +18,34 @@
 .swatch {
     height: 200px;
     width: 170px;
-    border: 20px solid black;
+    border: 1px solid black;
 }
 .darkBlue {
-    background-color: #333366
+  background-color: #333366;
 }
 .darkGrey {
-    background-color: #545454
+  background-color: #545454;
+}
+.lightGrey {
+  background-color: #E3E3E3;
+}
+.white {
+  background-color: #FFFFFF;
+}
+.lightBlue {
+  background-color: #12A0F6;
+}
+.red {
+  background-color: #F84848;
+}
+.orange {
+  background-color: #FC7705;
+}
+.lightBlue {
+  background-color: #13A0F6;
+}
+.lightGreen {
+  background-color: #8ABE48;
 }
 
 .hexCode {
