@@ -1,4 +1,7 @@
 /* Header Styles */
+body {
+    font-family: 'Edu SA Beginner', cursive;
+}
 .header {
     height: 250px;
     max-height: 500px;
